@@ -1,0 +1,16 @@
+name: Upload to IPFS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Upload to web3.storage
+        run: echo "TODO: Add your upload script here"
