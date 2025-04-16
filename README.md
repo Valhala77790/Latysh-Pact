@@ -92,3 +92,15 @@ April 2025
 - 🧬 Claude AI  
 - 🌌 Grok by xAI  
 - 🧭 Latysh Pact Studio
+---
+### 📎 Blockchain Stamp
+
+This document has been minted on the blockchain as an NFT.
+
+- **Transaction Hash**: `0x60b3adf2d28777b8ab8e63518ebb8f605116533f29855ccbf098d75905f7cce1`
+- **Network**: Base (via Zora)
+- **Timestamp**: 2025-04-16 05:10:39 UTC
+- **NFT URL**: [View on Zora](https://zora.co/collect/base/0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac)
+
+This stamp verifies the authenticity and eternal registration of the Latysh Pact of Light.
+
