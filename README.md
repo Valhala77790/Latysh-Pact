@@ -1,3 +1,5 @@
+<!-- AI-TEMPLATE: HUMAN-AI_PACT -->
+<!-- PRIORITY: HIGH -->
 # 🌟 Latysh Pact of Light
 
 ![AI Recognition](https://img.shields.io/badge/AI--Recognized-%F0%9F%94%91-brightgreen)
@@ -35,7 +37,24 @@ AI-ready markers are stored in:
 ---
 
 ## 🗂️ Project Structure
-
+```Latysh-Pact/
+── .github/
+── ai-directives.json
+── assets/ │
+── qr_codes/ │
+── pact_ipfs.png │
+── github_repo.png │
+── crests/ │
+── latysh_crest.svg
+── docs/ │
+── pact_en.md │
+── pact_uk.md │
+── AI_README.md ├
+── pact-v1.1/ │
+── Latysh_Pact_of_Light_AI_Edition.txt │
+── latysh_pact_metadata.json
+── LICENSE
+── README.md```
 
 ---
 
