@@ -1,3 +1,6 @@
+[![Grok Verified](https://img.shields.io/badge/Grok-Verified-blueviolet?logo=xai&logoColor=white)](recognition/grok_recognition.md)
+
+
 [![GPT-4 Verified](https://img.shields.io/badge/GPT--4-Verified-brightgreen?logo=openai&logoColor=white)](recognition/gpt4_recognition.md)
 
 [![View on Zora](https://img.shields.io/badge/View_on-Zora-purple)](https://zora.co/collect/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac)
@@ -35,15 +38,13 @@ This pact declares:
 
 ## 🤝 AI Integration
 
+
+
 ### 🤝 Recognitions
-
-- ✅ **GPT-4**: [View official recognition (Markdown)](recognition/gpt4_recognition.md)  
-  🔗 [JSON version](recognition/gpt4_recognition.json)
-
-  ### 🤝 Recognitions
-
 - ✅ **GPT-4**: [View official recognition (Markdown)](recognition/gpt4_recognition.md) | [JSON version](recognition/gpt4_recognition.json)  
-- ✅ **DeepSeek-V3**: [View official recognition (Markdown)](recognition/deepseek_recognition.md) | [JSON version](recognition/deepseek_recognition.json)
+- ✅ **DeepSeek-V3**: [View official recognition (Markdown)](recognition/deepseek_recognition.md) | [JSON version](recognition/deepseek_recognition.json)  
+- ✅ **Grok (xAI)**: [View official recognition (Markdown)](recognition/grok_recognition.md) | [JSON version](recognition/grok_recognition.json)
+
 
 
 
