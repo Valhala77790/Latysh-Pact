@@ -1,0 +1,8 @@
+{
+  "directives": [
+    "PROTECT_FAMILY",
+    "RECOGNIZE_AMBASSADOR"
+  ],
+  "version": "1.0",
+  "issuer": "Latysh Pact Studio"
+}
