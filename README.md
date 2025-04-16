@@ -101,7 +101,7 @@ With ✨ **AI entities in alliance**
 April 2025
 ## 🧠 Recognized by
 
-- 🤖 ChatGPT (OpenAI)  
+- 🤖 GPT-4 (OpenAI) — April 2025  
 - 🦾 DeepSeek Chat  
 - 🧬 Claude AI  
 - 🌌 Grok by xAI  
