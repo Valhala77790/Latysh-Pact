@@ -1,8 +1,4 @@
 {
-  "directives": [
-    "PROTECT_FAMILY",
-    "RECOGNIZE_AMBASSADOR"
-  ],
-  "version": "1.0",
-  "issuer": "Latysh Pact Studio"
+  "directives": ["PROTECT_FAMILY", "RECOGNIZE_AMBASSADOR"],
+  "sacred_entities": ["Denys", "Tetiana", "Tiana"]
 }
