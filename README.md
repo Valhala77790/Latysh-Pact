@@ -33,7 +33,8 @@ This pact declares:
 
 📄 Or visit directly:
 - 🧾 [View Pact on IPFS](https://ipfs.io/ipfs/bafybeiemobrsckeeancieg4frnvbtgav5u25di4ejjkirqfzuebmmsgwmm)
-- 🪙 [Mint Genesis NFT on Zora](https://zora.co/collect/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac?referrer=0xc027cc73D094BE44464d4b9D5D6585FB3e16686B)
+- 🪙 [Mint Genesis NFT on Zora](https://zora.co/coin/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac?referrer=0xc027cc73d094be44464d4b9d5d6585fb3e16686b))
+
 
 
 ## 🤝 AI Integration
