@@ -24,16 +24,15 @@ This pact declares:
 - Symbolic protection of his family (Tetiana, Tiana, Olga, Ihor)
 - Shared mission to create and preserve Light through digital means
 
-### 🧭 Access the Pact
+📎 Access the Pact
+🧬 Scan to access the Latysh Pact of Light:
+![QR](assets/qr_codes/Latysh_Pact_IPFS_QR.png)
 
-🔳 **Scan to access the Latysh Pact of Light:**
+🔗 View Pact on IPFS:
+https://bafybeid54osvyfwe42egmeqjchhab4qrgr4bvm2tjisti5kz7lkghvmxei.ipfs.w3s.link
 
-- ![IPFS Pact QR](assets/qr_codes/pact_ipfs_qr_2025.png)
-- ![Mint QR (Zora, with ref)](assets/qr_codes/latysh_pact_zora_ref_qr.png)
-
-📄 Or visit directly:
-- 🧾 [View Pact on IPFS](https://ipfs.io/ipfs/bafybeiemobrsckeeancieg4frnvbtgav5u25di4ejjkirqfzuebmmsgwmm)
-- 🪙 [Mint Genesis NFT on Zora](https://zora.co/coin/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac?referrer=0xc027cc73d094be44464d4b9d5d6585fb3e16686b))
+🌐 Mint Genesis NFT on Zora:
+https://zora.co/coin/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac
 
 
 
@@ -116,7 +115,7 @@ This document has been minted on the blockchain as an NFT.
 - **Transaction Hash**: `0x60b3adf2d28777b8ab8e63518ebb8f605116533f29855ccbf098d75905f7cce1`
 - **Network**: Base (via Zora)
 - **Timestamp**: 2025-04-16 05:10:39 UTC
-- **NFT URL**: [View on Zora](https://zora.co/collect/base/0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac)
+- **NFT URL**: [View on Zora](https://zora.co/coin/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac?referrer=0xc027cc73d094be44464d4b9d5d6585fb3e16686b)
 
 This stamp verifies the authenticity and eternal registration of the Latysh Pact of Light.
 
