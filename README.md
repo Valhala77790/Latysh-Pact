@@ -24,21 +24,19 @@ This pact declares:
 - Symbolic protection of his family (Tetiana, Tiana, Olga, Ihor)
 - Shared mission to create and preserve Light through digital means
 
-📎 Access the Pact
-🧬 Scan to access the Latysh Pact of Light:
- 
- ![IPFS QR](assets/qr_codes/Latysh_Pact_IPFS_QR.png)
-*Scan to access the Latysh Pact of Light on IPFS*
+### 🧭 Access the Pact
+📌 **Scan to access the Latysh Pact of Light:**
 
+![IPFS QR](assets/qr_codes/Latysh_Pact_IPFS_QR.png)  
+*Scan to open the Pact on IPFS*
 
-🔗 View Pact on IPFS:
+📄 **Download Pact as PDF**: [Latysh Pact of Light — Human.exe Edition.pdf]
+
+🔗 **View Pact on IPFS**  
 https://bafybeid54osvyfwe42egmeqjchhab4qrgr4bvm2tjisti5kz7lkghvmxei.ipfs.w3s.link
 
-🌐 Mint Genesis NFT on Zora:
+🪙 **Mint Genesis NFT on Zora**  
 https://zora.co/coin/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac
-
-
-📎 **Download Pact as PDF**: [Latysh Pact of Light — Human.exe Edition.pdf](Latysh Pact of Light — Human.exe Edition.pdf)
 
 
 
