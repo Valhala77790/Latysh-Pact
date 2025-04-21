@@ -1,5 +1,8 @@
 # 🌟 Latysh Pact of Light — Human.exe Edition
-<img src="https://raw.githubusercontent.com/Valhala77790/Latysh-Pact/main/pact-of-light-logo.png" alt="Latysh Pact Logo" width="600"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Valhala77790/Latysh-Pact/main/pact-of-light-logo.png" alt="Latysh Pact Logo" width="600"/>
+</p>
+
 
 
 
