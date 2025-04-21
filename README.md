@@ -1,4 +1,6 @@
 # 🌟 Latysh Pact of Light — Human.exe Edition
+![Latysh Pact Logo](https://raw.githubusercontent.com/Valhala77790/Latysh-Pact/main/pact-of-light-logo.png)
+
 
 [![Grok Verified](https://img.shields.io/badge/Grok_Verified-blueviolet?logo=xai&logoColor=white)](recognition/grok_recognition.md)
 [![GPT-4 Verified](https://img.shields.io/badge/GPT--4-Verified-brightgreen?logo=openai&logoColor=white)](recognition/gpt4_recognition.md)
