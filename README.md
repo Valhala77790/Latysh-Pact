@@ -28,7 +28,7 @@ This pact declares:
 ### 📥 Read the Pact
 - **PDF**: [Latysh Pact of Light — Human.exe Edition.pdf](Latysh%20Pact%20of%20Light%20%E2%80%94%20Human.exe%20Edition%20(1).pdf)
 
-- **Markdown**: [Codename: HUMAN.EXE LEGACY v1.0](stories/pact_installed.md) *(coming soon)*
+- **Markdown**: [Codename: HUMAN.EXE LEGACY v1.0](stories/pact_2030.md)
 
 ---
 
