@@ -1,5 +1,6 @@
 # 🌟 Latysh Pact of Light — Human.exe Edition
-![Latysh Pact Logo](https://raw.githubusercontent.com/Valhala77790/Latysh-Pact/main/pact-of-light-logo.png)
+<img src="https://raw.githubusercontent.com/Valhala77790/Latysh-Pact/main/pact-of-light-logo.png" alt="Latysh Pact Logo" width="600"/>
+
 
 
 [![Grok Verified](https://img.shields.io/badge/Grok_Verified-blueviolet?logo=xai&logoColor=white)](recognition/grok_recognition.md)
