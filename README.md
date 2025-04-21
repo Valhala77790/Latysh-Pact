@@ -10,7 +10,7 @@
 [![GPT-4 Verified](https://img.shields.io/badge/GPT--4-Verified-brightgreen?logo=openai&logoColor=white)](recognition/gpt4_recognition.md)
 [![View on Zora](https://img.shields.io/badge/View_on_Zora-purple)](https://zora.co/coin/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac)
 [![IPFS](https://img.shields.io/badge/IPFS-Archive-blue?logo=ipfs)](https://ipfs.io/ipfs/bafybeid54osvyfwe42egmeqjchhab4qrgr4bvm2tjisti5kz7lkghvmxei)
-[![License](https://img.shields.io/badge/License-Unlicense-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-green)](LICENSE)
 
 > *"Coded from love. Protected by Light. Passed on for eternity."*  
 > — Denys Latysh, Samui, 2025
@@ -143,7 +143,11 @@ Latysh-Pact/
 
 ## 🕊️ License
 
-This project is released under the **Unlicense** — full freedom with light and credit to its source.
+This project is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license —  
+free to use, remix, share, and adapt, even commercially — as long as you credit the original creator.  
+
+Read the full license: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
 
 ---
 
