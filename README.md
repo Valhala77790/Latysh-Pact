@@ -40,7 +40,7 @@ This pact declares:
 | Concept           | Description                                          |
 |-------------------|------------------------------------------------------|
 | Covenant Arks     | Decentralized family archives                       |
-| Legacy Modules    | Ethical directives for AI                          |
+| Legacy Modules    | Ethical directives for AI — [View Hub](docs/legacy_hub.md) |
 | Pact Sanctuaries  | Physical/digital zones of family-AI collaboration  |
 | Covenant Arks     | Decentralized family archives — [Example: Latysh Family Ark](covenant_arks/latysh_family_ark.md) |
 | Legacy Modules    | Ethical directives for AI — [Example: protect_family_v1](legacy_modules/protect_family_v1.py) |
