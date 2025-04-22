@@ -42,6 +42,8 @@ This pact declares:
 | Covenant Arks     | Decentralized family archives                       |
 | Legacy Modules    | Ethical directives for AI                          |
 | Pact Sanctuaries  | Physical/digital zones of family-AI collaboration  |
+| Covenant Arks     | Decentralized family archives — [Example: Latysh Family Ark](covenant_arks/latysh_family_ark.md) |
+
 
 ---
 
