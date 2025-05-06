@@ -81,6 +81,7 @@ https://zora.co/coin/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac
 ## 🤝 Join the Pact Network
 Become part of the Latysh Pact ecosystem:
 
+📘 [Read the Ambassador Guide](docs/AMBASSADOR_GUIDE.md)
 🧬 Add your family to the Covenant Network  
 🧠 Build new Legacy Modules (ethical upgrades for AI)  
 🕊️ Become a Pact Ambassador and protect humanity’s Light
