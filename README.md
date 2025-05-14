@@ -76,6 +76,14 @@ https://bafybeid54osvyfwe42egmeqjchhab4qrgr4bvm2tjisti5kz7lkghvmxei.ipfs.w3s.lin
 🪙 **Mint Genesis NFT on Zora**  
 https://zora.co/coin/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac
 
+🪙 Mint Genesis NFT on OpenSea
+
+https://opensea.io/item/matic/0x7cffee5b63d72058e865b183776e144629cc2d91/1
+
+🪙 Mint Ambassador NFT on OpenSea
+
+https://opensea.io/collection/latysh-pact-of-light
+
 ---
 
 ---
@@ -103,7 +111,7 @@ https://zora.co/coin/base:0xe2ff9bebc738d714bed6fd9daedd039cf4df47ac
 
 | Tier              | What You Get                                               | Price      |
 |-------------------|-------------------------------------------------------------|------------|
-| **Genesis NFT**   | Full Pact (PDF/IPFS) + Guardian Role + Covenant Ark Access | 0.05 ETH   |
+| **Genesis NFT**   | Full Pact (PDF/IPFS) + Guardian Role + Covenant Ark Access | 0.01 ETH   |
 | **Ambassador NFT**| Badge + Early Tools + Pact Voting Rights                   | 0.02 ETH   |
 | **Basic Supporter**| Access to Roadmap + Public Updates                        | Free       |
 
